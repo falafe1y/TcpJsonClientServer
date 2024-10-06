@@ -4,7 +4,7 @@
 - Boost.Asio
 - nlohmann JSON library
 
-# Instalation
+# Installation
 First, you need to go to the working directory and install this repository via HTTPS:
 
 ```bash
